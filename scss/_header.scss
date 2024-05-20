@@ -1,0 +1,25 @@
+#header {
+  border-bottom: 1px solid #4a4a4a40;
+}
+.header__container {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding-block: 20px;
+  color: #282b22;
+  ul {
+    display: flex;
+    list-style: none;
+  }
+  a {
+    text-decoration: none;
+    color: inherit;
+  }
+  .nav-list {
+    gap: 40px;
+    font-family: "Raleway", sans-serif;
+  }
+  .social-networks {
+    gap: 15px;
+  }
+}
