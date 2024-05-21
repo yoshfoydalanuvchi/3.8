@@ -1,0 +1,28 @@
+.care {
+  width: 100%;
+  background: #3d4a39;
+}
+.care__container {
+  padding-block: 100px;
+  text-align: center;
+  color: white;
+
+  h1 {
+    font-family: Raleway;
+    font-size: 46px;
+    font-weight: 600;
+    line-height: 57.5px;
+    margin-bottom: 70px;
+  }
+  div {
+    width: 100%;
+    margin-inline: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 70px;
+    gap: 214px;
+    img {
+    }
+  }
+}
