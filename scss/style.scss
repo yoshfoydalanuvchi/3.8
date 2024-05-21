@@ -1,5 +1,6 @@
 @import "header.scss";
 @import "hero.scss";
+@import "directions.scss";
 
 * {
   margin: 0;
@@ -9,4 +10,8 @@
 .container {
   width: 1200px;
   margin-inline: auto;
+}
+button,
+a {
+  cursor: pointer;
 }
